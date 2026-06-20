@@ -18,13 +18,13 @@ End-to-end analytics project in Python that cleans a 55,000-row diamond dataset,
 
 This project maps to the core responsibilities listed in data analyst job postings:
 
-- **Data cleaning and wrangling** — type coercion, placeholder-to-null conversion, invalid-category handling, deduplication, median imputation
-- **Statistical literacy** — distribution and skewness analysis, log / square-root / Box-Cox transformations, one- and two-sample t-tests with correct one- and two-sided framing
-- **Regression modelling and diagnostics** — OLS interpretation plus formal assumption checks (normality, homoscedasticity, independence via Durbin-Watson, linearity, multicollinearity via VIF)
-- **Machine learning** — Random Forest regression, train/test splitting, and model comparison on held-out data
-- **Model evaluation** — RMSE, MAE, MAPE and R² reported on both the transformed and original dollar scales
-- **Data visualisation** — matplotlib and seaborn for distributions, relationships, and diagnostics
-- **Communicating insight** — every analysis closes with a plain-language recommendation for the business
+- **Data cleaning and wrangling**: type coercion, placeholder-to-null conversion, invalid-category handling, deduplication, median imputation
+- **Statistical literacy**: distribution and skewness analysis, log / square-root / Box-Cox transformations, one- and two-sample t-tests with correct one- and two-sided framing
+- **Regression modelling and diagnostics**: OLS interpretation plus formal assumption checks (normality, homoscedasticity, independence via Durbin-Watson, linearity, multicollinearity via VIF)
+- **Machine learning**: Random Forest regression, train/test splitting, and model comparison on held-out data
+- **Model evaluation**: RMSE, MAE, MAPE and R² reported on both the transformed and original dollar scales
+- **Data visualisation**: matplotlib and seaborn for distributions, relationships, and diagnostics
+- **Communicating insight**: every analysis closes with a plain-language recommendation for the business
 
 **Tech stack:** Python, pandas, NumPy, SciPy, statsmodels, scikit-learn, Matplotlib, seaborn
 
