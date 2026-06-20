@@ -2,7 +2,7 @@
 
 End-to-end analytics project in Python that cleans a 55,000-row diamond dataset, tests pricing hypotheses, and builds machine learning models to predict diamond value for a fictional retailer, **Aurora Gems**. The work covers the full pipeline a data analyst owns in practice: data quality remediation, exploratory analysis, statistical inference, regression diagnostics, and predictive modelling, each step tied back to a business decision.
 
-> Academic project completed for the Master of Business Analytics at Macquarie University. The client, *Aurora Gems*, and the business scenario are fictional; the analysis and code are my own.
+> Academic project completed for BUSA8000 - Techniques in Business Analytics, Master of Business Analytics at Macquarie University. The client, *Aurora Gems*, and the business scenario are fictional; the analysis and code are my own.
 
 ---
 
